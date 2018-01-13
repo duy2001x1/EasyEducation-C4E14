@@ -1,5 +1,5 @@
 .bg-board {
-  background-image: url('images/board-bg.jpg');
+  background-image: url('../images/board-bg.jpg');
   background-size: cover;
   background-attachment: fixed;
 
